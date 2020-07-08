@@ -1,3 +1,4 @@
+# C Questions
 
 1.	What is the difference between declaration and definition of a variable/function
 
